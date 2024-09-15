@@ -40,4 +40,6 @@
    TTL    : <br>
    Alamat : <br><br>
 
-   i like conflict
+
+   i like peace
+
