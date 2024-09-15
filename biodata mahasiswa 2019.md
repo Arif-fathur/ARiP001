@@ -32,3 +32,10 @@
    Agama  : Islam<br>
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br><br>
+
+6. Nama   : <br>
+   NIM    : <br>
+   JK     : <br>
+   Agama  : <br>
+   TTL    : <br>
+   Alamat : <br><br>
