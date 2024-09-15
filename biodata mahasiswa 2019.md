@@ -33,12 +33,12 @@
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br><br>
 
-6. Nama   : <br>
-   NIM    : <br>
-   JK     : <br>
-   Agama  : <br>
-   TTL    : <br>
-   Alamat : <br><br>
+6. Nama   : Arif Fathurrahman<br>
+   NIM    : 123220136<br>
+   JK     : Laki - laki<br>
+   Agama  : Islam<br>
+   TTL    : Tulang Bawang, 27 Oktober 2003<br>
+   Alamat : Sleman<br><br>
 
 
    i like peace
